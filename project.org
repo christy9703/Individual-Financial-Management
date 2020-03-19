@@ -1,0 +1,3 @@
+* Project Scope 
+This is the org file for the Project Individual Financial Management
+  

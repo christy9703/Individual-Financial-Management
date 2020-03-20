@@ -11,3 +11,11 @@ This is the org file for the Project Individual Financial Management
  - THIS IS TH NOTES
 
 
+** DONE Research on OCR API                                         :Christy:
+   DEADLINE: <2020-03-19 Thu>
+ - which API could be used to extract data in PDF?
+   - ocr.space: https://ocr.space/
+     The ocr has been tested, the data could be extracted in unstructured-way.
+
+ - could the data be directly gotten from the database from the banks?
+     Use ocr is a better way for now.

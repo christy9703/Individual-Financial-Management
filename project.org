@@ -1,3 +1,13 @@
+#+TODO: TODO IN-PROGRESS WAITING DONE
+
+
+
 * Project Scope 
 This is the org file for the Project Individual Financial Management
-  
+
+
+** DONE TEST FOR AGENDA                                             :Christy:
+   DEADLINE: <2020-03-19 Thu>
+ - THIS IS TH NOTES
+
+

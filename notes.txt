@@ -1,0 +1,9 @@
+- Launch Airflow webserver:
+  - airflow webserver -p 8080
+
+- kill Airflow pid:
+  - find the process id (assuming 8080 is the port)
+    lsof -i tcp:8080
+  - kill pid
+    kill 33020
+

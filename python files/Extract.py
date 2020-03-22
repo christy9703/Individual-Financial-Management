@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 import tika
 from tika import parser
 from datetime import date
@@ -25,7 +26,6 @@ today =date.today().strftime("%m-%d-%Y")
 
 
 for statement in get_file(statement_path):
-    print("statement:"+statement)
     statement_name = statement.strip(statement_path).strip(".pdf")
     statement_content = tika_parse_file(statement)
     parsed_statement_name = statement_name + '_' + today + '.txt'

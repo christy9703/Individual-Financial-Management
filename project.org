@@ -24,6 +24,11 @@ This is the org file for the Project Individual Financial Management
 
 
 ** TODO Clean the extracted unstructured data  
+   DEADLINE: <2020-03-25 Wed>
    After using the Tika package, the unstructured data can be obtained from Parsed['Content'],
 which needs to be cleaned up.
 
+
+** TODO Solve the amount issue
+   DEADLINE: <2020-03-23 Mon>
+  thousand separator can't be identified. 
